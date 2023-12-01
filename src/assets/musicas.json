@@ -1,0 +1,43 @@
+{
+    "last": true,
+    "first": true,
+    "totalElements": 1,
+    "totalPages": 1,
+    "size": 10,
+    "numberOfElements": 1,
+    "page": 0,
+    "musicDataList": [
+        {
+            "id": 1,
+            "name": "LALALAA",
+            "genre": "Techno",
+            "duration": 1.0,
+            "createdDate": "2023-11-18T03:49:31.980174Z",
+            "lastModifiedDate": "2023-11-18T03:49:31.980174Z"
+        },
+        {
+            "id": 2,
+            "name": "FOMFOM",
+            "genre": "TechHouse",
+            "duration": 1.0,
+            "createdDate": "2023-11-18T03:49:31.980174Z",
+            "lastModifiedDate": "2023-11-18T03:49:31.980174Z"
+        },
+        {
+            "id": 3,
+            "name": "Pessai",
+            "genre": "PsyTrance",
+            "duration": 1.0,
+            "createdDate": "2023-11-18T03:49:31.980174Z",
+            "lastModifiedDate": "2023-11-18T03:49:31.980174Z"
+        },
+        {
+            "id": 4,
+            "name": "Fuck",
+            "genre": "Fuckxon",
+            "duration": 1.0,
+            "createdDate": "2023-11-18T03:49:31.980174Z",
+            "lastModifiedDate": "2023-11-18T03:49:31.980174Z"
+        }
+    ]
+}
